@@ -8,10 +8,11 @@ In this project, a clone of Google was created using HTML and CSS. Visual Studio
 
 The fundamental explanation of each of the sections to be carried out can be viewed in the following links:
 
+- [Tools](#Tools)
 - [Installation](#Installation)
 - [Services](#Services)
 - [Languages](#Languages)
-- [Tools](#Tools)
+- [Visualization](#Visualization)
 
 ## Tools
 
